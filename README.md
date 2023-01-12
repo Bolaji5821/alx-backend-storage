@@ -5,3 +5,4 @@
 ![Latest commit](https://img.shields.io/github/last-commit/Bolaji5821/alx-backend-storage/main?style=round-square)
 
 This repo contains projects for learning backend development data storage concepts.
+0x00. MySQL advanced
